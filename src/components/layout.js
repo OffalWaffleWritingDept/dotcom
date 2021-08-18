@@ -4,6 +4,7 @@ import { ThemeToggler } from "gatsby-plugin-dark-mode"
 import { scale } from "../utils/typography"
 
 import Footer from "./footer"
+import Logo from "./logo"
 import "./global.css"
 
 const Layout = ({ location, title, children }) => {
@@ -74,10 +75,7 @@ const Layout = ({ location, title, children }) => {
           }}
           to={`/`}
         >
-          <img
-            alt="Offal Waffle Corporate Identity Logo"
-            src="/images/logo.svg"
-          />
+          <Logo />
         </Link>
       </h2>
     </>
