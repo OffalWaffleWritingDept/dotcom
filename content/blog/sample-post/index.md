@@ -1,64 +1,23 @@
 ---
-title: Sample Post
-date: "2020-07-27T07:26:03.284Z"
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: Hello world
+date: "2021-08-17"
+description: "Just trying to break the ol' proverbial ice."
 categories: [hello world]
-comments: true
-image:
-  feature: https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250
-  credit: thomas shellberg
-  creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
+comments: false
 ---
 
-## HTML Elements
+# Oh hi!
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Glad you were able to stop by. The idea behind this project is to start writing again. And in a way that's not, like, the easiest, but also not the most expensive. So I'm making it hard on collaborators and cheap for me!
 
-# Heading 1
+## You wanna write something here?
 
-## Heading 2
+Great! Well, I'm not really going to go into how you can do that just yet. I want to make a youtube about it. Can you say _youtube_ like a noun to mean video shared on YouTube? Surely you can.
 
-### Heading 3
+Go to [Github.com](https://github.com) and create an account. A free one is all you need.
 
-#### Heading 4
+Next, heh, here's the fun part, go to [this website's repo](https://github.com/OffalWaffleWritingDept/dotcom) and make a new branch!
 
-##### Heading 5
+Next, create your post and save it. Commit it. Open up a Pull Request and then I'll get it merged <abbr title="As soon as humanly possible">ASAP</abbr>.
 
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image](https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250)
-
-_This is emphasized_. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## Tables
-
-| Header 1 | Header 2 | Header 3 |
-| :------- | :------: | -------: |
-| cell 1   |  cell 2  |   cell 3 |
-| cell 4   |  cell 5  |   cell 6 |
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-- Item one
-- Item two
-- Item three
+## Be right back with actual instructions... and a youtube.

@@ -63,18 +63,21 @@ const Layout = ({ location, title, children }) => {
         style={{
           ...scale(1),
           marginBottom: 0,
-          marginTop: 0,
-          fontFamily: `Montserrat, sans-serif`,
+          marginTop: "1rem",
+          fontFamily: `Montserrat, sans-serif`
         }}
       >
         <Link
           style={{
             boxShadow: `none`,
-            color: `inherit`,
+            color: `inherit`
           }}
           to={`/`}
         >
-          {title}
+          <img
+            alt="Offal Waffle Corporate Identity Logo"
+            src="/images/logo.svg"
+          />
         </Link>
       </h2>
     </>
@@ -86,7 +89,7 @@ const Layout = ({ location, title, children }) => {
         backgroundColor: "var(--bg)",
         color: "var(--textNormal)",
         transition: "color 0.2s ease-out, background 0.2s ease-out",
-        minHeight: "100vh",
+        minHeight: "100vh"
       }}
     >
       <div className="sidebar">
