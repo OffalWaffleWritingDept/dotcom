@@ -6,7 +6,7 @@ categories: [hello world]
 comments: false
 ---
 
-# Oh hi!
+# Ergh, BYE!
 
 Glad you were able to stop by. The idea behind this project is to start writing again. And in a way that's not, like, the easiest, but also not the most expensive. So I'm making it hard on collaborators and cheap for me!
 
