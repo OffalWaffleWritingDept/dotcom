@@ -8,9 +8,9 @@ comments: false
 
 ## Welcome, intrepid contributor!
 
-To begin, please view the following video:
+To begin, please view the following video `(19m48s)`:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AYEWsLdLmcc" title="Offal Waffle Writing Dept Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3iRGq-XQQls" title="Offal Waffle Writing Dept Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Feel free to modify this page or any others to test!
 
@@ -19,6 +19,20 @@ Remember that in your markdown file, you can use _underscores_ and **asterisks**
 ```
 
 And if you do that, the result will be _outstandingly_ **emphasized**!
+
+## Quick Recap
+
+1. Create a github.com account
+1. **Fork** the original site project [from here](https://github.com/OffalWaffleWritingDept/dotcom/fork)
+1. Downloaded needed prerequisites:
+	- [Github desktop](https://desktop.github.com/)
+	- [Notepad++](https://notepad-plus-plus.org/downloads/)
+	- [NodeJS](https://nodejs.org/en/)
+1. Open a command prompt (win-key, then "cmd") and go to the clone's folder
+1. Run `npm i` and then `npm run dev`
+1. Make changes and view them at [localhost:8000](http://localhost:8000/)
+1. Use Github Desktop to **commit** changes, and **push to origin**
+1. Use Github Desktop to create a Pull Request (Branch > Create Pull Request `Ctrl + R`)
 
 ## Resources
 
