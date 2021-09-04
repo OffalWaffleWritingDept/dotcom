@@ -1,7 +1,7 @@
 ---
 title: How to contribute to Offal Waffle
 date: "2021-09-03"
-description: "Patience is a virtue."
+description: "Example of creating a new page, complete with 20min video walkthrough!"
 categories: [hello world]
 comments: false
 ---
