@@ -78,6 +78,14 @@ const Layout = ({ location, title, children }) => {
           <Logo />
         </Link>
       </h2>
+      <p
+        style={{
+          fontStyle: "italic",
+          fontSize: "0.9rem"
+        }}
+      >
+        &laquo; We got heart &raquo;
+      </p>
     </>
   )
 
